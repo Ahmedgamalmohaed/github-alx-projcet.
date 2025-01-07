@@ -1,5 +1,0 @@
-feature-greeting
-GitHubCloneProject
-<REPOSITORY-URL>
-GitHubCloneProject
-feature.txt, README.md
