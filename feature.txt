@@ -1,7 +1,8 @@
+Feature-Branch-Creation-branch-1
 This is a new feature.
-feature-greeting.
-GitHubCloneProject.
+feature-greeting
+GitHubCloneProject
 <REPOSITORY-URL>
-GitHubCloneProject.
-feature.txt.
-
+GitHubCloneProject
+feature.txt 
+Feature-Branch
