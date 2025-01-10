@@ -2,4 +2,4 @@ feature-greeting
 GitHubCloneProject
 <REPOSITORY-URL>
 GitHubCloneProject
- README.md
+feature.txt 
